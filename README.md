@@ -1,4 +1,5 @@
 ### Hi, My Nmae is Mikael Diogo 👋
+I'm a Front-end who wants to learn more about new technologies, programming for me is a hobby :)
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
