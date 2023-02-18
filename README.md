@@ -1,4 +1,4 @@
-### Hi, My Nmae is Mikael Diogo 👋
+### Hi, My Name is Mikael Diogo 👋
 I'm a Front-end who wants to learn more about new technologies, programming for me is a hobby :)
 
  <div style="display: inline_block"><br>
